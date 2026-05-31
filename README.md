@@ -171,12 +171,16 @@ pip install pandas numpy scikit-learn matplotlib torch transformers
 
 ## Project Files
 
-
 Arabic_Phishing_Detection.GP/
 │
-├── Arabic_Phishing_SVM_AraBERT_EnhancedHybrid_(Final)_(1).ipynb
-├── 
+├── dataset/
+│   ├── merged_train_enhanced.csv
+│   ├── merged_valid_enhanced.csv
+│   └── merged_test.csv
+│
+├── GP_Arabic_Phishing_Detection.ipynb
 └── README.md
+
 
 
 
