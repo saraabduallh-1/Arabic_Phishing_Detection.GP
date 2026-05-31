@@ -171,6 +171,7 @@ pip install pandas numpy scikit-learn matplotlib torch transformers
 
 ## Project Files
 
+
 Arabic_Phishing_Detection.GP/
 │
 ├── dataset/
@@ -180,6 +181,8 @@ Arabic_Phishing_Detection.GP/
 │
 ├── GP_Arabic_Phishing_Detection.ipynb
 └── README.md
+
+
 
 
 
